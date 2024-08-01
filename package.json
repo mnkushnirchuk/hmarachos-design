@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/StarkElessar/gulp-2022/issues"
   },
-  "homepage": "https://github.com/mnkushnirchuk/hmarachos-design",
+  "homepage": "https://github.com/mnkushnirchuk.github.io/hmarachos-design",
   "devDependencies": {
     "@babel/core": "^7.22.10",
     "@babel/preset-env": "^7.19.1",
